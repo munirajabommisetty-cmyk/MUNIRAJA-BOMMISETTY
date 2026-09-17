@@ -1,5 +1,5 @@
-# MUNIRAJA-BOMMISETTY
-AI/ML Engineer in Progress 🚀
+# 🚀 MUNIRAJA-BOMMISETTY
+# AI/ML Engineer in Progress 
 
 Focused on learning, building, and deploying real-world Machine Learning and Deep Learning systems.
 
@@ -11,7 +11,7 @@ Currently strengthening my foundations in Machine Learning, Deep Learning, NLP, 
 
 # ⚙️ Technical Stack
 
-🤖 Machine Learning & AI
+# 🤖 Machine Learning & AI
 
 * Machine Learning
 * Deep Learning
@@ -27,7 +27,7 @@ Currently strengthening my foundations in Machine Learning, Deep Learning, NLP, 
 * Transfer Learning
 * Fine-Tuning
 
-🧠 Deep Learning
+# 🧠 Deep Learning
 
 * Artificial Neural Networks (ANN)
 * Convolutional Neural Networks (CNN)
@@ -38,7 +38,7 @@ Currently strengthening my foundations in Machine Learning, Deep Learning, NLP, 
 * PyTorch
 * TensorFlow / Keras
 
-🔥 Frameworks & Libraries
+# 🔥 Frameworks & Libraries
 
 * Python
 * NumPy
@@ -50,7 +50,7 @@ Currently strengthening my foundations in Machine Learning, Deep Learning, NLP, 
 * OpenCV
 * Hugging Face Transformers
 
-🛠️ Backend & APIs
+# 🛠️ Backend & APIs
 
 * FastAPI
 * Flask
@@ -60,7 +60,7 @@ Currently strengthening my foundations in Machine Learning, Deep Learning, NLP, 
 * ML Model Serving
 * ML Model Deployment
 
-🚀 Deployment & Tools
+# 🚀 Deployment & Tools
 
 * Git
 * GitHub
@@ -71,12 +71,12 @@ Currently strengthening my foundations in Machine Learning, Deep Learning, NLP, 
 * Hugging face spaces
 * Docker — Currently Learning
 
-💾 Databases
+# 💾 Databases
 
 * SQL
 * SQLite
 
-💻 Programming Languages
+# 💻 Programming Languages
 
 * Python
 * Java
@@ -163,6 +163,6 @@ I believe real skills come from building projects, debugging failures, understan
 I'm documenting my journey through AI/ML while learning and building projects along the way.
 
 Building my way into the AI era.
-# GITHUB:github.com/munirajabommisetty-cmyk
-# EMAIL ID:munirajabommisetty@gmail.com
-# LINKDIEN :linkedin.com/in/bommisettymuniraja
+ GITHUB: github.com/munirajabommisetty-cmyk
+ EMAIL ID: munirajabommisetty@gmail.com
+ LINKDIEN : linkedin.com/in/bommisettymuniraja
