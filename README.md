@@ -164,5 +164,7 @@ I'm documenting my journey through AI/ML while learning and building projects al
 
 Building my way into the AI era.
 GITHUB: https://github.com/munirajabommisetty-cmyk
+
 EMAIL ID: munirajabommisetty@gmail.com
+
 LINKDIEN : https://linkedin.com/in/bommisettymuniraja
